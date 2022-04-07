@@ -1,0 +1,9 @@
+# ninja log v5
+0	448	1649332900	CMakeFiles/api.dir/api.cpp.o	85f1e1c62d665803
+449	791	1649332900	/Users/KaushalParmar/Desktop/UnoProjects/Flutter/flutter_native_ffi/build/app/intermediates/cxx/Debug/313063z4/obj/arm64-v8a/libapi.so	bfebc3c10c4c3169
+0	506	1649333468	CMakeFiles/api.dir/api.cpp.o	85f1e1c62d665803
+506	804	1649333468	/Users/KaushalParmar/Desktop/UnoProjects/Flutter/flutter_native_ffi/build/app/intermediates/cxx/Debug/313063z4/obj/arm64-v8a/libapi.so	bfebc3c10c4c3169
+0	539	1649333691	CMakeFiles/api.dir/api.cpp.o	85f1e1c62d665803
+540	926	1649333691	/Users/KaushalParmar/Desktop/UnoProjects/Flutter/flutter_native_ffi/build/app/intermediates/cxx/Debug/313063z4/obj/arm64-v8a/libapi.so	bfebc3c10c4c3169
+0	484	1649333740	CMakeFiles/api.dir/api.cpp.o	85f1e1c62d665803
+484	747	1649333741	/Users/KaushalParmar/Desktop/UnoProjects/Flutter/flutter_native_ffi/build/app/intermediates/cxx/Debug/313063z4/obj/arm64-v8a/libapi.so	bfebc3c10c4c3169

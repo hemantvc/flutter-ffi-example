@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/KaushalParmar/Desktop/UnoProjects/Flutter/flutter_native_ffi/libs/CMakeLists.txt",
+    "/Users/KaushalParmar/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/KaushalParmar/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/KaushalParmar/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/KaushalParmar/Desktop/UnoProjects/Flutter/flutter_native_ffi/android/app/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/KaushalParmar/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/KaushalParmar/Desktop/UnoProjects/Flutter/flutter_native_ffi/android/app/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "api-Debug-x86": {
+      "artifactName": "api",
+      "buildCommand": "/Users/KaushalParmar/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/KaushalParmar/Desktop/UnoProjects/Flutter/flutter_native_ffi/android/app/.cxx/cmake/debug/x86\" api",
+      "abi": "x86",
+      "output": "/Users/KaushalParmar/Desktop/UnoProjects/Flutter/flutter_native_ffi/build/app/intermediates/cmake/debug/obj/x86/libapi.so",
+      "runtimeFiles": []
+    }
+  }
+}

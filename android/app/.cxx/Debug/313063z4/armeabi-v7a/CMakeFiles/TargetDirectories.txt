@@ -1,0 +1,3 @@
+/Users/KaushalParmar/Desktop/UnoProjects/Flutter/flutter_native_ffi/android/app/.cxx/Debug/313063z4/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/KaushalParmar/Desktop/UnoProjects/Flutter/flutter_native_ffi/android/app/.cxx/Debug/313063z4/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/KaushalParmar/Desktop/UnoProjects/Flutter/flutter_native_ffi/android/app/.cxx/Debug/313063z4/armeabi-v7a/CMakeFiles/api.dir

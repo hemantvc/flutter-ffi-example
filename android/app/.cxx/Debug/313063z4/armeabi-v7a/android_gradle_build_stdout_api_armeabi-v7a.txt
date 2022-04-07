@@ -1,0 +1,3 @@
+ninja: Entering directory `/Users/KaushalParmar/Desktop/UnoProjects/Flutter/flutter_native_ffi/android/app/.cxx/Debug/313063z4/armeabi-v7a'
+[1/2] Building CXX object CMakeFiles/api.dir/api.cpp.o
+[2/2] Linking CXX shared library /Users/KaushalParmar/Desktop/UnoProjects/Flutter/flutter_native_ffi/build/app/intermediates/cxx/Debug/313063z4/obj/armeabi-v7a/libapi.so
